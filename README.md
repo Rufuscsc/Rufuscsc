@@ -1,6 +1,6 @@
+<img align="center"width="600" src="https://github.com/Rufuscsc/Rufuscsc/blob/main/coding-freak.gif" alt="images">
 <h1 align="center">Hi 👋, I'm Rufus Wellens</h1>
 <h3 align="center">A passionate frontend developer and Software Engineer from Nigeria</h3>
-<img align="center"width="600" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="images">
 <div>
        <table >
             <tr>
@@ -36,7 +36,7 @@
         </td>
     </tr>
 </table>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aysuarex&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rufuscsc&label=Profile%20views&color=0e75b6&style=flat" alt="rufuscsc" /> </p>
 <h1>Examples of Work</h1>
 <img src="https://github.com/Rufuscsc/Rufuscsc/blob/main/ezgif-4-b53d05ecef.gif" alt="image" >
-
