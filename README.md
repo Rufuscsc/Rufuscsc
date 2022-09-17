@@ -36,7 +36,7 @@
         </td>
     </tr>
 </table>
-[![Rufus's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufuscsc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Rufus's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufuscsc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 <img src="https://activity-graph.herokuapp.com/graph?username=rufuscsc&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="image">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rufuscsc&label=Profile%20views&color=0e75b6&style=flat" alt="rufuscsc" /> </p>
 <h1>Examples of Work</h1>
