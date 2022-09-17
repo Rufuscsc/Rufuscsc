@@ -1,16 +1,14 @@
-<img align="center"width="600" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="images">
 <h1 align="center">Hi 👋, I'm Rufus Wellens</h1>
 <h3 align="center">A passionate frontend developer and Software Engineer from Nigeria</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rufuscsc&label=Profile%20views&color=0e75b6&style=flat" alt="rufuscsc" /> </p>
+<img align="center"width="600" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="images">
 <div>
        <table >
             <tr>
                 <td>
-                    - 🌱 I’m currently learning **Javascript, C++**
-                    <br>- 💬 Ask me about **anything in my stack**
-                    <br> - 📫 How to reach me **rufusmfmwellens@gmail.com**
-                    <br>- ⚡ Fun fact **I'm a student of the ALX Software Engineering Program (cohort 7)**
+                    <p>- 🌱 I’m currently learning <b>JavaScript, C++</b></p>
+                    <p>- 💬 Ask me about <b>Anything in my stack</b></p>
+                    <p>- 📫 How to reach me: <b><a href=rufusmfmwellens@gmail.com alt=email>rufusmfmwellens@gmail.com</a></b></p>
+                    <p>- ⚡ Fun fact: <b>I'm a student of the ALX Software Engineering Programme (cohort 7)</b></p>
                 </td>
                 <td>
                     <h3 align="left">Connect with me:</h3>
@@ -34,11 +32,11 @@
             <p width="400">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rufuscsc&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=dark" alt="rufuscsc" /></p>
         </td>
         <td>
-            <p width=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufuscsc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" alt="rufuscsc" /></p>
+            <p width="400"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufuscsc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" alt="rufuscsc" /></p>
         </td>
     </tr>
 </table>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rufuscsc&label=Profile%20views&color=0e75b6&style=flat" alt="rufuscsc" /> </p>
 <h1>Examples of Work</h1>
-<img src="https://im.ge/i/12ONWa" alt="image" >
+<img src="https://github.com/Rufuscsc/Rufuscsc/blob/main/ezgif-4-b53d05ecef.gif" alt="image" >
 
