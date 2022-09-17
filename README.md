@@ -36,7 +36,7 @@
         </td>
     </tr>
 </table>
-[![Rufus GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rufuscsc&&theme=xcode)](https://github.com/rufuscsc)
+[![Rufus GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rufuscsc&&theme=dark)](https://github.com/rufuscsc)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rufuscsc&label=Profile%20views&color=0e75b6&style=flat" alt="rufuscsc" /> </p>
 <h1>Examples of Work</h1>
 <img src="https://github.com/Rufuscsc/Rufuscsc/blob/main/ezgif-4-b53d05ecef.gif" alt="image" >
