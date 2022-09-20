@@ -1,4 +1,4 @@
-<img src="https://github.com/Rufuscsc/Rufuscsc/blob/main/banner.png" alt="images" width="600" align="center">
+<img src="https://github.com/Rufuscsc/Rufuscsc/blob/main/banner.png" alt="images" width="700" align="right">
 <h1 align="center">Hi 👋, I'm Rufus Wellens</h1>
 <h3 align="center">A passionate frontend developer and Software Engineer from Nigeria</h3>
 <div>
