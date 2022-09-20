@@ -1,5 +1,5 @@
 <!--![MasterHead](https://github.com/Rufuscsc/Rufuscsc/blob/main/banner.png)-->
-![Rufus Wells_banner](https://user-images.githubusercontent.com/99369085/189547193-992ed153-38b7-4814-8cba-4054cdb382ea.png)
+![Rufus Wells_banner](https://github.com/Rufuscsc/Rufuscsc/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Rufus Wellens</h1>
 <h3 align="center">A passionate frontend developer and Software Engineer from Nigeria</h3>
 <div>
