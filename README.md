@@ -1,7 +1,7 @@
 <!--![MasterHead](https://github.com/Rufuscsc/Rufuscsc/blob/main/banner.png)-->
 ![Rufus Wells_banner](https://github.com/Rufuscsc/Rufuscsc/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Rufus Wellens</h1>
-<h3 align="center">A passionate frontend developer and Software Engineer from Nigeria</h3>
+<h3 align="center">A passionate frontend developer and Software Engineer</h3>
 <div>
        <table >
             <tr>
